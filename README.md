@@ -1,1 +1,9 @@
 # utscrud
+
+CREATE
+
+READ
+
+UPDATE
+
+DELETE
